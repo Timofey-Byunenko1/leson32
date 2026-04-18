@@ -6,7 +6,7 @@ export default function Home() {
     <Container>
       <Typography variant="h4">Моё резюме</Typography>
 
-      <Typography>Имя: Твоё имя</Typography>
+      <Typography>Имя: Tima</Typography>
       <Typography>Навыки: HTML, CSS, JS, React</Typography>
       <Typography>Опыт: Начинающий разработчик</Typography>
     </Container>
